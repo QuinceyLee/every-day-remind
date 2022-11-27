@@ -117,7 +117,7 @@ public class Main {
                 send(token);
                 StaticLog.info("Success send.");
             }
-        }, 0, 1000 * 60 * 15);
+        }, 0, 1000 * 60 * 2);
 
     }
 
